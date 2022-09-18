@@ -132,4 +132,4 @@ dmypy.json
 .vscode/
 *.jpg
 *.zip
-*.idea
+.idea

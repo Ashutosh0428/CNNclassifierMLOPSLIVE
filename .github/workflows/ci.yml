@@ -1,5 +1,6 @@
 name: CV application
 
+
 on:
   push:
     branches: [ "main" ]

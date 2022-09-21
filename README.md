@@ -23,3 +23,7 @@
 10.Update the dvc.yaml
 
 11.run "dvc repro" for running all the stages in pipeline
+
+![Data Ingestion@2x (1)](https://user-images.githubusercontent.com/95860742/191415146-6be499ea-9850-4b86-b9d7-24e96f84e9a6.png)
+
+

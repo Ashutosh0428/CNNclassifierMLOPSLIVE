@@ -135,3 +135,7 @@ dmypy.json
 .idea/
 *.h5
 
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-09-21-10-16-55/train/events.out.tfevents.1663735622.LAPTOP-5PUSB2U2.18476.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-09-21-10-33-47/train/events.out.tfevents.1663736636.LAPTOP-5PUSB2U2.16016.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-09-21-11-02-37/train/events.out.tfevents.1663738362.LAPTOP-5PUSB2U2.21748.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-09-21-11-02-37/validation/events.out.tfevents.1663744940.LAPTOP-5PUSB2U2.21748.1.v2

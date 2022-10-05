@@ -4,7 +4,8 @@ from deepClassifier.entity import (
     DataIngestionConfig,
     PrepareBaseModelConfig,
     PrepareCallbacksConfig,
-    TrainingConfig
+    TrainingConfig,
+    EvaluationConfig
 )
 from pathlib import Path
 import os

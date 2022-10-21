@@ -150,3 +150,6 @@ artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-02-17-33-52/t
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-02-17-33-52/validation/events.out.tfevents.1664719607.LAPTOP-5PUSB2U2.16512.1.v2
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-02-20-26-27/train/events.out.tfevents.1664722592.LAPTOP-5PUSB2U2.11940.0.v2
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-02-21-14-08/train/events.out.tfevents.1664725451.LAPTOP-5PUSB2U2.24480.0.v2
+mlruns/*
+research/mlflow_dir/mlruns/*
+prediction_service/model.h5

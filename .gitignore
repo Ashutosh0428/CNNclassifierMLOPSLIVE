@@ -153,3 +153,17 @@ artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-02-21-14-08/t
 mlruns/*
 research/mlflow_dir/mlruns/*
 prediction_service/model.h5
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-05-19-59-13/train/events.out.tfevents.1664980160.LAPTOP-5PUSB2U2.18964.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-20-11-38-28/train/events.out.tfevents.1666246113.LAPTOP-5PUSB2U2.20592.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-20-11-39-45/train/events.out.tfevents.1666246188.LAPTOP-5PUSB2U2.15932.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-20-11-42-00/train/events.out.tfevents.1666246324.LAPTOP-5PUSB2U2.17616.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-20-12-02-21/train/events.out.tfevents.1666247546.LAPTOP-5PUSB2U2.23044.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-20-12-22-15/train/events.out.tfevents.1666248745.LAPTOP-5PUSB2U2.12420.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-20-12-22-56/train/events.out.tfevents.1666248781.LAPTOP-5PUSB2U2.21824.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-20-12-24-21/train/events.out.tfevents.1666248865.LAPTOP-5PUSB2U2.12696.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-21-11-37-00/train/events.out.tfevents.1666332433.LAPTOP-5PUSB2U2.22340.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-21-11-37-00/validation/events.out.tfevents.1666338879.LAPTOP-5PUSB2U2.22340.1.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-21-19-56-53/train/events.out.tfevents.1666362421.LAPTOP-5PUSB2U2.14584.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-21-20-02-56/train/events.out.tfevents.1666362779.LAPTOP-5PUSB2U2.23904.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-21-20-04-14/train/events.out.tfevents.1666362856.LAPTOP-5PUSB2U2.22660.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-21-20-07-11/train/events.out.tfevents.1666363036.LAPTOP-5PUSB2U2.16328.0.v2
